@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmisorTestFirebase</string>
+    <string name="msg_subscribed">Subscribed to %s topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+</resources>

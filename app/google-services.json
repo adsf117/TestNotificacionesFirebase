@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "577513645137",
+    "firebase_url": "https://testdroneevents.firebaseio.com",
+    "project_id": "testdroneevents",
+    "storage_bucket": "testdroneevents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577513645137:android:04bb31b692b681e8",
+        "android_client_info": {
+          "package_name": "com.andres.emisortestfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577513645137-l92pqiqj0fhuldd1smaonco01jueoke4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDt6GVw5JUAil50BhjrbmW9hQFYxVLe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
